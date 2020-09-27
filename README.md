@@ -45,7 +45,7 @@ Installed on my own device
 Demo on iPhone 8 Simulator (Portrait Mode)
 
 
-<img src="http://g.recordit.co/DSGXhz8gfM.gif" width=250><br>
+<img src="http://g.recordit.co/tnpOKMvuVr.gif" width=250><br>
 
 
 Demo on iPhone 8 Simulator (Landscape Mode)
