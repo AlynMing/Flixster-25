@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 Installed on my own device 
 
 
-<img src="http://g.recordit.co/qI17doUMuk.gif" width=250><br>
+<img src="http://g.recordit.co/57IaB8xj0e.gif" width=250><br>
 
 
 Demo on iPhone 8 Simulator (Portrait Mode)
