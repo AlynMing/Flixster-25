@@ -51,7 +51,7 @@ Demo on iPhone 8 Simulator (Portrait Mode)
 Demo on iPhone 8 Simulator (Landscape Mode)
 
 
-<img src="http://g.recordit.co/cLUKTyWGZU.gif" width=250><br>
+<img src="http://g.recordit.co/b1YqreP2KT.gif" width=250><br>
 
 
 
