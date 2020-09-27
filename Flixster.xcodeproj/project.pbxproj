@@ -18,6 +18,7 @@
 		259C533E2518276B00440EE1 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259C533D2518276B00440EE1 /* MovieCell.swift */; };
 		25A6B1C825184B8700705B57 /* Pods_Flixster.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 425AAFFD48C3B11827233D53 /* Pods_Flixster.framework */; };
 		25A6B1C925184B8700705B57 /* Pods_Flixster.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 425AAFFD48C3B11827233D53 /* Pods_Flixster.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		25D97F3D25204D9C00611B33 /* MoviesDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D97F3C25204D9C00611B33 /* MoviesDetailsViewController.swift */; };
 		8401543617B35419CD3D3CB9 /* Pods_Flixster_FlixsterUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F61905875DF73C0C99E2EE9 /* Pods_Flixster_FlixsterUITests.framework */; };
 		F467FE1501950D5AF2563A07 /* Pods_FlixsterTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81960F1E94FD8A3D664FC7A8 /* Pods_FlixsterTests.framework */; };
 /* End PBXBuildFile section */
@@ -70,6 +71,7 @@
 		259C53262518049600440EE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		259C53382518062800440EE1 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 		259C533D2518276B00440EE1 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
+		25D97F3C25204D9C00611B33 /* MoviesDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesDetailsViewController.swift; sourceTree = "<group>"; };
 		31FCD8D4316492FEE9163489 /* Pods-FlixsterTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlixsterTests.release.xcconfig"; path = "Target Support Files/Pods-FlixsterTests/Pods-FlixsterTests.release.xcconfig"; sourceTree = "<group>"; };
 		425AAFFD48C3B11827233D53 /* Pods_Flixster.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flixster.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		768149B6983778761728229C /* Pods-Flixster.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flixster.debug.xcconfig"; path = "Target Support Files/Pods-Flixster/Pods-Flixster.debug.xcconfig"; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				259C53022518048F00440EE1 /* AppDelegate.swift */,
 				259C53042518048F00440EE1 /* SceneDelegate.swift */,
 				259C53082518048F00440EE1 /* Main.storyboard */,
+				25D97F3C25204D9C00611B33 /* MoviesDetailsViewController.swift */,
 				259C533D2518276B00440EE1 /* MovieCell.swift */,
 				259C53382518062800440EE1 /* MoviesViewController.swift */,
 				259C530B2518049500440EE1 /* Assets.xcassets */,
@@ -428,6 +431,7 @@
 				259C53032518048F00440EE1 /* AppDelegate.swift in Sources */,
 				259C53052518048F00440EE1 /* SceneDelegate.swift in Sources */,
 				259C533E2518276B00440EE1 /* MovieCell.swift in Sources */,
+				25D97F3D25204D9C00611B33 /* MoviesDetailsViewController.swift in Sources */,
 				259C53392518062800440EE1 /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -607,6 +611,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9WC8XVBXJ4;
 				INFOPLIST_FILE = Flixster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -627,6 +632,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 9WC8XVBXJ4;
 				INFOPLIST_FILE = Flixster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
